@@ -1,0 +1,34 @@
+src/*.exe
+src/FullSendCoin
+src/FullSendCoind
+src/test_FullSendCoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.FullSendCoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+FullSendCoin-qt
+FullSendCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+FullSendCoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

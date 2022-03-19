@@ -1,0 +1,9 @@
+Building FullSendCoin
+
+See doc/readme-qt.rst for instructions on building FullSendCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FullSendCoin.
+
+See doc/build-*.txt for instructions on building FullSendCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FullSendCoin.
