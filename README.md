@@ -1,10 +1,7 @@
 FullSendCoin integration/staging tree
 ================================
 
-http://www.FullSendCoin.org
-
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 FullSendCoin Developers
+https://discord.gg/S9URvrBHbm
 
 What is FullSendCoin?
 ----------------
